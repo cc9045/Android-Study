@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloMyWorld</string>
+    <string name="button">Start</string>
+    <string name="image">Megumi</string>
+    <string name="text">Welcome to my world!</string>
+    <string name="Edit">(Your name is)</string>
+    <string name="check">I\'m ready</string>
+    <string name="hint">input your name here please</string>
+</resources>
